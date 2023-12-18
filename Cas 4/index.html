@@ -9,31 +9,32 @@
 
 <body>
 
+    <h1 style="color: chocolate;">STUDENT EXERCISE</h1>
 
     <table style="border: 1px solid black">
-        <thead>
+        <thead style="background-color: LightGray;">
             <tr>
-                <td>
-                    <h4>Testform</h4>
-                </td>
+                <td colspan="2">
+                    <h4 style="margin: 0 0 10px;">Testform</h4>
+                </td> 
             </tr>
         </thead>
         <form action="">
             <tbody>
                 <tr>
                     <td>
-                        <label for="name">Name</label>
+                        <label for="name" >Name</label>
                     </td>
                     <td>
-                        <input type="text" name="name" id="name">
+                        <input type="text" name="name" id="name"  required>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <label for="password">Password</label>
+                        <label for="password" >Password</label>
                     </td>
                     <td>
-                        <input type="password" name="password" id="password">
+                        <input type="password" name="password" id="password"  required>
                     </td>
                 </tr>
                 <tr>
@@ -82,9 +83,9 @@
                     </td>
                 </tr>
             </tbody>
-            <tfoot>
+            <tfoot style="background-color: LightGray;">
                 <tr>
-                    <td>
+                    <td colspan="2">
                         <input type="submit" value="Send">
                         <input type="submit" value="Cancel">
                     </td>
@@ -92,42 +93,6 @@
             </tfoot>
         </form>
     </table>
-
-    <!-- <form action="" style="border: 1 solid black;">
-        <label for="name">Name</label>
-        <input type="text" id="name" name="name">
-
-        <label for="password">Password</label>
-        <input type="password" id="password" name="password"><br>
-
-        <label for="gender">Gender</label>
-
-        <input type="radio" id="male" name="gender" value="male">
-        <label for="male">Male</label>
-
-        <input type="radio" id="female" name="gender" value="female">
-        <label for="female">Female</label>
-        <br>
-
-        <label for="city">Select a city</label>
-        <select id="city" name="city">
-            <option value="beograd">Beograd</option>
-            <option value="novisad">Novi Sad</option>
-            <option value="nis">Nis</option>
-            <option value="kragujevac">Kragujevac</option>
-        </select><br>
-
-        <label for="meals">Meals</label>
-        <input type="checkbox" id="breakfast" name="breakfast" value="breakfast">
-        <label for="breakfast">breakfast</label><br>
-        <input type="checkbox" id="lunch" name="lunch" value="lunch">
-        <label for="lunch">lunch</label><br>
-        <input type="checkbox" id="dinner" name="dinner" value="dinner">
-        <label for="dinner">dinner</label><br><br>
-
-        <label for="text">Remark</label>
-        <textarea id="text" name="text" rows="4" cols="40"></textarea>
-    </form> -->
 </body>
 
 </html>
