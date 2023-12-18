@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+
+    <table style="border: 1px solid black">
+        <thead>
+            <tr>
+                <td>
+                    <h4>Testform</h4>
+                </td>
+            </tr>
+        </thead>
+        <form action="">
+            <tbody>
+                <tr>
+                    <td>
+                        <label for="name">Name</label>
+                    </td>
+                    <td>
+                        <input type="text" name="name" id="name">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="password">Password</label>
+                    </td>
+                    <td>
+                        <input type="password" name="password" id="password">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="gender">Gender</label>
+                    </td>
+                    <td>
+                        <input type="radio" name="gender" id="male"> Male
+                        <br>
+                        <input type="radio" name="gender" id="female"> Female
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="continent">Continent</label>
+                    </td>
+                    <td>
+                        <select name="continent" id="continent">
+                            <option value="europe">Europe</option>
+                            <option value="africa">Africa</option>
+                            <option value="australia">Australia</option>
+                            <option value="asia">Asia</option>
+                            <option value="north-america">North America</option>
+                            <option value="south-america">South America</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="meals">Meals</label>
+                    </td>
+                    <td>
+                        <input type="checkbox" name="meals" id="breakfast"> Breakfast
+                        <br>
+                        <input type="checkbox" name="meals" id="lunch"> Lunch
+                        <br>
+                        <input type="checkbox" name="meals" id="dinner"> Dinner
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="remark">Remark</label>
+                    </td>
+                    <td>
+                        <textarea id="text" name="remark" rows="4" cols="40"></textarea>
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td>
+                        <input type="submit" value="Send">
+                        <input type="submit" value="Cancel">
+                    </td>
+                </tr>
+            </tfoot>
+        </form>
+    </table>
+
+    <!-- <form action="" style="border: 1 solid black;">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name">
+
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password"><br>
+
+        <label for="gender">Gender</label>
+
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="male">Male</label>
+
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female">Female</label>
+        <br>
+
+        <label for="city">Select a city</label>
+        <select id="city" name="city">
+            <option value="beograd">Beograd</option>
+            <option value="novisad">Novi Sad</option>
+            <option value="nis">Nis</option>
+            <option value="kragujevac">Kragujevac</option>
+        </select><br>
+
+        <label for="meals">Meals</label>
+        <input type="checkbox" id="breakfast" name="breakfast" value="breakfast">
+        <label for="breakfast">breakfast</label><br>
+        <input type="checkbox" id="lunch" name="lunch" value="lunch">
+        <label for="lunch">lunch</label><br>
+        <input type="checkbox" id="dinner" name="dinner" value="dinner">
+        <label for="dinner">dinner</label><br><br>
+
+        <label for="text">Remark</label>
+        <textarea id="text" name="text" rows="4" cols="40"></textarea>
+    </form> -->
+</body>
+
+</html>
