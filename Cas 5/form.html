@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Forms</h3>
+    <form action="">
+        <label for="fname" >First Name:</label>
+        <input type="text" name="fname" id="fname"  required><br>
+
+        <label for="sname" >Second Name:</label>
+        <input type="text" name="sname" id="sname"  required><br>
+
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email"  required>
+
+        <label for="password" >Password</label>
+        <input type="password" name="password" id="password"  required><br>
+
+        <label for="text" >What did you like about this gig?</label>
+        <textarea id="text" name="remark" rows="1" cols="15"></textarea><br>
+
+        <label for="text" >Tell us your experience:</label>
+        <textarea id="text" name="remark" rows="8" cols="30"></textarea>
+
+        <input type="submit" value="Sing up">
+        <input type="submit" value="Reset form ">
+    </form>
+
+    <hr>
+
+    <h3>Raido Buttons Form</h3>
+    <form action="">
+        <label for="text" >Please select your favourte genre:</label><br>
+        <input type="radio" name="genre" id="Pop"> Pop
+        <input type="radio" name="genre" id="Rock"> Rock
+        <input type="radio" name="genre" id="Jazz"> Jazz 
+        <br>
+        <hr>
+        <label for="text" >Please select your favourte music service(s):</label><br>
+        <input type="checkbox" name="music" id="Pop"> iTunes
+        <input type="checkbox" name="music" id="Rock"> Live FM
+        <input type="checkbox" name="music" id="Jazz"> Spotify
+        <br>
+        <hr>
+        <label for="text">Please select what device do you listen to music on</label>
+       <select name="music" id="music">
+        <option value="Pop">Pop</option>
+        <option value="Rock">Rock</option>
+        <option value="Jazz">Jazz</option>
+        </select>
+        <br>
+        <hr>
+        <label for="text">Select the instruments you play on:</label>
+        <select name="instruments" id="instruments" multiple="multiple">
+        <option value="guitar">Guitar</option> 
+        <option value="bass">Bass</option> 
+        <option value="drums">Drums</option>
+        <option value="keybord">keybord</option>  
+        </select>
+        <br>
+        <hr>
+        <label for="song">Upload you song </label>
+        <input type="file" id="song" name="song">
+    </form>
+</body>
+</html>
