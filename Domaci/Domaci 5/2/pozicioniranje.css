@@ -1,0 +1,217 @@
+@font-face {
+    font-family: poppins;
+    src: url(fonts/Poppins-Italic.ttf);
+}
+
+body {
+    font-family: poppins;
+}
+
+.container {
+    width: 1000px;
+    height: 600px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.prvi {
+    width: 150px;
+    height: 60px;
+    background-color: #E5EEEB;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+}
+
+.drugi {
+    width: 220px;
+    height: 60px;
+    background-color: #F2E7D5;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+    position: absolute;
+    top: 0;
+    left: 16%;
+}
+
+.treci {
+    width: 180px;
+    height: 60px;
+    background-color: #EDCC6B;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+    position: absolute;
+    top: 0;
+    left: 38.95%;
+}
+
+.cetvrti {
+    width: 40px;
+    height: 439.7px;
+    background-color: #F2E7D5;
+    border-bottom: 10px solid black;
+    position: absolute;
+    top: 0;
+    left: 57.9%;
+}
+
+.peti {
+    width: 60px;
+    height: 150px;
+    background-color: #fbfde7;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+}
+
+.sesti {
+    width: 310.5px;
+    height: 300px;
+    background-color: #D62D24;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+    position: absolute;
+    top: 11.6%;
+    left: 6.95%;
+}
+
+.sedmi {
+    width: 180px;
+    height: 150px;
+    background-color: #EDCC6B;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+    position: absolute;
+    top: 11.6%;
+    left: 38.95%;
+}
+
+.osmi {
+    width: 60px;
+    height: 200px;
+    background-color: #E5EEEB;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+}
+
+.deveti {
+    width: 85px;
+    height: 140.49px;
+    background-color: #dfe5d0;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+    position: absolute;
+    top: 38.2%;
+    left: 38.95%;
+}
+
+.deseti {
+    width: 85px;
+    height: 140.49px;
+    background-color: #f2eee2;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+    position: absolute;
+    top: 38.2%;
+    left: 48.42%;
+}
+
+.jedanaesti {
+    width: 60px;
+    height: 130px;
+    background-color: #EDCC6B;
+    border-right: 10px solid black;
+}
+
+.dvanaesti {
+    width: 150px;
+    height: 120px;
+    background-color: #130409;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+    position: absolute;
+    top: 63.25%;
+    left: 6.9%;
+}
+
+.trinaesti {
+    width: 151.8px;
+    height: 60px;
+    background-color: #c0bfba;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+    position: absolute;
+    top: 63.25%;
+    left: 22.8%;
+}
+
+.cetrnaesti {
+    width: 151.8px;
+    height: 51px;
+    background-color: #dee2d4;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+    position: absolute;
+    top: 74.8%;
+    left: 22.8%;
+}
+
+.petnaesti {
+    width: 180px;
+    height: 60px;
+    background-color: #d6dee0;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+    position: absolute;
+    top: 63.25%;
+    left: 38.95%;
+}
+
+.sesnaesti {
+    width: 180px;
+    height: 90px;
+    background-color: #241785;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+    position: absolute;
+    top: 74.8%;
+    left: 38.95%;
+}
+
+.sedamnaesti {
+    width: 40px;
+    height: 119px;
+    background-color: #D62D24;
+    position: absolute;
+    top: 74.9%;
+    left: 57.9%;
+}
+
+.osamnaesti {
+    width: 150px;
+    height: 59px;
+    background-color: #e3ded9;
+    border-right: 10px solid black;
+    position: absolute;
+    top: 84.9%;
+    left: 6.9%;
+}
+
+.devetnaesti {
+    width: 151.8px;
+    height: 29px;
+    background-color: #130409;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+    position: absolute;
+    top: 84.9%;
+    left: 22.8%; 
+}
+
+.dvadeseti {
+    width: 341.5px;
+    height: 20px;
+    background-color: #e0e0df;
+    border-right: 10px solid black;
+    position: absolute;
+    top: 91.4%;
+    left: 22.8%; 
+}
