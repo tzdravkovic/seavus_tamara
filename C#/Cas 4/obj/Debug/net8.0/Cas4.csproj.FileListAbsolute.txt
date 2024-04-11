@@ -1,0 +1,15 @@
+D:\Tamara\Akademija\C#\Cas4\bin\Debug\net8.0\Cas4.exe
+D:\Tamara\Akademija\C#\Cas4\bin\Debug\net8.0\Cas4.deps.json
+D:\Tamara\Akademija\C#\Cas4\bin\Debug\net8.0\Cas4.runtimeconfig.json
+D:\Tamara\Akademija\C#\Cas4\bin\Debug\net8.0\Cas4.dll
+D:\Tamara\Akademija\C#\Cas4\bin\Debug\net8.0\Cas4.pdb
+D:\Tamara\Akademija\C#\Cas4\obj\Debug\net8.0\Cas4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tamara\Akademija\C#\Cas4\obj\Debug\net8.0\Cas4.AssemblyInfoInputs.cache
+D:\Tamara\Akademija\C#\Cas4\obj\Debug\net8.0\Cas4.AssemblyInfo.cs
+D:\Tamara\Akademija\C#\Cas4\obj\Debug\net8.0\Cas4.csproj.CoreCompileInputs.cache
+D:\Tamara\Akademija\C#\Cas4\obj\Debug\net8.0\Cas4.sourcelink.json
+D:\Tamara\Akademija\C#\Cas4\obj\Debug\net8.0\Cas4.dll
+D:\Tamara\Akademija\C#\Cas4\obj\Debug\net8.0\refint\Cas4.dll
+D:\Tamara\Akademija\C#\Cas4\obj\Debug\net8.0\Cas4.pdb
+D:\Tamara\Akademija\C#\Cas4\obj\Debug\net8.0\Cas4.genruntimeconfig.cache
+D:\Tamara\Akademija\C#\Cas4\obj\Debug\net8.0\ref\Cas4.dll

@@ -1,0 +1,15 @@
+D:\Tamara\Akademija\C#\Cas1\Domaci\Domaci\bin\Debug\net8.0\Domaci.exe
+D:\Tamara\Akademija\C#\Cas1\Domaci\Domaci\bin\Debug\net8.0\Domaci.deps.json
+D:\Tamara\Akademija\C#\Cas1\Domaci\Domaci\bin\Debug\net8.0\Domaci.runtimeconfig.json
+D:\Tamara\Akademija\C#\Cas1\Domaci\Domaci\bin\Debug\net8.0\Domaci.dll
+D:\Tamara\Akademija\C#\Cas1\Domaci\Domaci\bin\Debug\net8.0\Domaci.pdb
+D:\Tamara\Akademija\C#\Cas1\Domaci\Domaci\obj\Debug\net8.0\Domaci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tamara\Akademija\C#\Cas1\Domaci\Domaci\obj\Debug\net8.0\Domaci.AssemblyInfoInputs.cache
+D:\Tamara\Akademija\C#\Cas1\Domaci\Domaci\obj\Debug\net8.0\Domaci.AssemblyInfo.cs
+D:\Tamara\Akademija\C#\Cas1\Domaci\Domaci\obj\Debug\net8.0\Domaci.csproj.CoreCompileInputs.cache
+D:\Tamara\Akademija\C#\Cas1\Domaci\Domaci\obj\Debug\net8.0\Domaci.sourcelink.json
+D:\Tamara\Akademija\C#\Cas1\Domaci\Domaci\obj\Debug\net8.0\Domaci.dll
+D:\Tamara\Akademija\C#\Cas1\Domaci\Domaci\obj\Debug\net8.0\refint\Domaci.dll
+D:\Tamara\Akademija\C#\Cas1\Domaci\Domaci\obj\Debug\net8.0\Domaci.pdb
+D:\Tamara\Akademija\C#\Cas1\Domaci\Domaci\obj\Debug\net8.0\Domaci.genruntimeconfig.cache
+D:\Tamara\Akademija\C#\Cas1\Domaci\Domaci\obj\Debug\net8.0\ref\Domaci.dll

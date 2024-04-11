@@ -1,0 +1,15 @@
+D:\Tamara\Akademija\C#\Cas1\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\Tamara\Akademija\C#\Cas1\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\Tamara\Akademija\C#\Cas1\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\Tamara\Akademija\C#\Cas1\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\Tamara\Akademija\C#\Cas1\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\Tamara\Akademija\C#\Cas1\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tamara\Akademija\C#\Cas1\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Tamara\Akademija\C#\Cas1\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\Tamara\Akademija\C#\Cas1\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Tamara\Akademija\C#\Cas1\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+D:\Tamara\Akademija\C#\Cas1\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\Tamara\Akademija\C#\Cas1\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\Tamara\Akademija\C#\Cas1\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\Tamara\Akademija\C#\Cas1\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\Tamara\Akademija\C#\Cas1\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
