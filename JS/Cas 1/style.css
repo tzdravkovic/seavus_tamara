@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+.container {
+    width: 1200px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: yellow;
+}
+

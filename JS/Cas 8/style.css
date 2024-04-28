@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    background: url('bgr.jpg') no-repeat center;
+    background-size: cover;
+}
+.container {
+    width: 1200px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: rgb(255 255 255 /70%);
+    text-align: center;
+}
+
+.div_1 {
+    width: 400px;
+    height: 700px;
+    margin: 0 auto;
+
+
+}
+
+img {
+    width: 200px;
+    height: 100px;
+    margin: 0 auto;
+}

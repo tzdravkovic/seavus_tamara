@@ -1,0 +1,14 @@
+.div_1 {
+    margin-top: 30px;
+    text-align: center;
+}
+
+button {
+    width: 200px;
+    height: 80px;
+    background-color: pink;
+    font-size: 30px;
+    text-transform: uppercase;
+    border-radius: 50px;
+}
+

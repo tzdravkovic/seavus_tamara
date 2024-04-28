@@ -67,7 +67,7 @@
             int ourStringLength = ourString.Length;
             Console.WriteLine($"Length of our string is {ourStringLength}");
 
-            string[] splitted = ourString.Split( '.' );
+            string[] splitted = ourString.Split('.');
 
             foreach (string part in splitted)
                 Console.WriteLine(part);
@@ -94,12 +94,12 @@
             Console.WriteLine(indexOfWordFun);
             Console.WriteLine(indexOfWordTamara);
 
-            if(ourString.Contains("FUN"))
+            if (ourString.Contains("FUN"))
             {
-                Console.WriteLine("There is a word FUN in oruginal string");
+                Console.WriteLine("There is a word FUN in original string");
             }
 
-            string funPartOfString =ourString.Substring(indexOfWordFun, ourString.Length - indexOfWordFun);
+            string funPartOfString = ourString.Substring(indexOfWordFun, ourString.Length - indexOfWordFun);
 
             Console.WriteLine(funPartOfString);
 

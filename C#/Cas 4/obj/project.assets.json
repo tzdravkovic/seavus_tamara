@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tamara\\Akademija\\C#\\Cas4\\Cas4.csproj",
+      "projectUniqueName": "D:\\Tamara\\Akademija\\C#\\Cas 4\\Cas4.csproj",
       "projectName": "Cas4",
-      "projectPath": "D:\\Tamara\\Akademija\\C#\\Cas4\\Cas4.csproj",
+      "projectPath": "D:\\Tamara\\Akademija\\C#\\Cas 4\\Cas4.csproj",
       "packagesPath": "C:\\Users\\marko\\.nuget\\packages\\",
-      "outputPath": "D:\\Tamara\\Akademija\\C#\\Cas4\\obj\\",
+      "outputPath": "D:\\Tamara\\Akademija\\C#\\Cas 4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marko\\AppData\\Roaming\\NuGet\\NuGet.Config",

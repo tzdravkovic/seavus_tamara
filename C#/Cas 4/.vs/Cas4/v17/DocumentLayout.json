@@ -1,12 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Tamara\\Akademija\\C#\\Cas4\\",
+  "WorkspaceRootPath": "D:\\Tamara\\Akademija\\C#\\Cas 4\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{B22FA3E4-C6FD-4174-93DA-5FE9F5A2F78D}|..\\Strings\\Strings.csproj|d:\\tamara\\akademija\\c#\\strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88E32B40-0EAE-4D2A-81B0-0C35B1A40C05}|Cas4.csproj|d:\\tamara\\akademija\\c#\\cas4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88E32B40-0EAE-4D2A-81B0-0C35B1A40C05}|Cas4.csproj|d:\\tamara\\akademija\\c#\\cas 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88E32B40-0EAE-4D2A-81B0-0C35B1A40C05}|Cas4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -25,9 +25,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Tamara\\Akademija\\C#\\Strings\\Program.cs",
               "RelativeDocumentMoniker": "..\\Strings\\Program.cs",
-              "ToolTip": "D:\\Tamara\\Akademija\\C#\\Strings\\Program.cs*",
-              "RelativeToolTip": "..\\Strings\\Program.cs*",
-              "ViewState": "AQIAAE0AAAAAAgAAAAAhwGcAAAAtAAAA",
+              "ToolTip": "D:\\Tamara\\Akademija\\C#\\Strings\\Program.cs",
+              "RelativeToolTip": "..\\Strings\\Program.cs",
+              "ViewState": "AQIAADUAAAAAWzMzMzMLwAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T16:37:21.341Z",
               "EditorCaption": ""
@@ -36,14 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Tamara\\Akademija\\C#\\Cas4\\Program.cs",
+              "DocumentMoniker": "D:\\Tamara\\Akademija\\C#\\Cas 4\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Tamara\\Akademija\\C#\\Cas4\\Program.cs",
+              "ToolTip": "D:\\Tamara\\Akademija\\C#\\Cas 4\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABQAAAAAFAAAAAAQwDoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T15:25:46.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T15:25:46.482Z"
             }
           ]
         }

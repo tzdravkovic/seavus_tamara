@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    background: url('bgr.jpg') no-repeat center;
+    background-size: cover;
+}
+.container {
+    width: 1200px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: rgb(255 255 255 /70%);
+    text-align: center;
+}
+
+#counter {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.anaVoli {
+    font-size: 20px;
+    color: red;
+}
