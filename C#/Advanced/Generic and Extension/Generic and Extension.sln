@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic and Extension Methods", "Generic and Extension Methods.csproj", "{D4C937FF-DD99-4100-94C3-FBD43493EB8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4C937FF-DD99-4100-94C3-FBD43493EB8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C937FF-DD99-4100-94C3-FBD43493EB8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C937FF-DD99-4100-94C3-FBD43493EB8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C937FF-DD99-4100-94C3-FBD43493EB8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA0B7B8F-03DA-4A46-84C9-E1BFB40B63CA}
+	EndGlobalSection
+EndGlobal
